@@ -11,6 +11,5 @@ def addition():
 
 addition()
 
-
-
-
+# terminal not closed emmidately 
+input("Please Click to Enter to End the Program ")
