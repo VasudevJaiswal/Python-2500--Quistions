@@ -1,0 +1,5 @@
+            The formula for the Area of a Rectangle
+The perimeter of a Rectangle:	
+                               P= 2(l + b)
+Area of a Rectangle:
+                       A = l × b
