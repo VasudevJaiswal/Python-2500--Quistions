@@ -8,18 +8,18 @@ divisor = int(input("Enter the Divisor Number : "))
 
 # Find the division of the operation 
 division = dividend/divisor
-print("Divison of the Operation is - ",str(division))
+print("\nDivison of the Operation is - ",str(division))
 
 # Find the quotient of the operation 
 quotient = dividend//divisor
-print("Quotient of the Operation is - ",str(quotient))
+print("\nQuotient of the Operation is - ",str(quotient))
 
 
 # Find the remainder of the operation 
 remainder = dividend%divisor
-print("Remainder of the Operation is - ",str(remainder))
+print("\nRemainder of the Operation is - ",str(remainder))
 
 
 # Program  not closed emmidately 
 
-input("Please Click to Enter to End the Program ")
+input("\nPlease Click to Enter to End the Program ")

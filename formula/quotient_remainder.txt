@@ -1,0 +1,10 @@
+
+                find the quotient and remainder Using this formula : 
+
+   quotient=a//b
+   remainder=a%b
+
+Program Explanation:
+1. User must enter the first and second number .
+2. The quotient is obtained using true division (// operator).
+3. The modulus operator gives the remainder when a is divided by b.
