@@ -9,3 +9,8 @@ def peri_area():
     print("total area of Perimeter of a rectangle  - ",A)
 
 peri_area()
+
+
+# Program  not closed emmidately 
+
+input("Please Click to Enter to End the Program ")

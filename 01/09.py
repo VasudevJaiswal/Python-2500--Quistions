@@ -13,9 +13,6 @@ def age_Calender():
     print("Your age in days is - ",str(years))
 
 
-
-
-
 age_Calender()
 
 # Program  not closed emmidately 
