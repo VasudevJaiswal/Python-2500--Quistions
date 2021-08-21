@@ -13,6 +13,6 @@ def int_str():
 int_str()
     
     
-    # Program  not closed emmidately 
+# Program  not closed emmidately 
 
 input("Please Click to Enter to End the Program ")
