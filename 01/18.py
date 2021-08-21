@@ -9,14 +9,14 @@ The farmer has counted his animals and he gives you a subtotal for each species.
 
 Examples ''')
 
-def legs_count():
-    chick = int(input("Enter Number of Chickens : "))
+def legs_count(chick,cows,pigs):
+    # chick = int(input("Enter Number of Chickens : "))
     chick_tot = chick*2
 
-    cows = int(input("Enter Number of Cows : "))
+    # cows = int(input("Enter Number of Cows : "))
     cows_tot = cows*4
 
-    pigs = int(input("Enter Number of Pigs : "))
+    # pigs = int(input("Enter Number of Pigs : "))
     pigs_tot = pigs*4
 
     # Total of Animals legs 
@@ -27,7 +27,7 @@ def legs_count():
 
 
 
-legs_count()
+legs_count(1,1,1)
 
 # Program  not closed emmidately 
 
